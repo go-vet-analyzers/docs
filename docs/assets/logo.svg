@@ -1,0 +1,14 @@
+<svg viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="go-vet-analyzers">
+  <defs>
+    <linearGradient id="vetgrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#34D399"/>
+      <stop offset="1" stop-color="#0F766E"/>
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" rx="56" fill="url(#vetgrad)"/>
+  <g fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="116" cy="112" r="52" stroke-width="14"/>
+    <path d="M154 150L196 192" stroke-width="18"/>
+    <path d="M92 112L110 130L142 92" stroke-width="14"/>
+  </g>
+</svg>
